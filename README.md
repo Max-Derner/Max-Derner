@@ -1,5 +1,7 @@
-'ello 'ello 'ello, my name's @Max-Derner,  
-Welcome to my GitHub, I've got a few bits and bobs in here but nothing much.  
+Hello! I'm @Max-Derner,  
+Have a snoop, take a peruse, give a gander. If you want to chat about anything, I'll pretty much always make time for you.  
+
+See you out in the wilds!
 
 <!---
 Max-Derner/Max-Derner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
